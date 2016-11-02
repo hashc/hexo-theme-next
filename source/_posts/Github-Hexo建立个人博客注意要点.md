@@ -1,5 +1,5 @@
 ---
-title: Github+Hexo建立个人博客资源汇总
+title: Github+Hexo建立个人博客注意要点
 date: 2016-10-31 21:23:32
 tags: Blog
 ---
